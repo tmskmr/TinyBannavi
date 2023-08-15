@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_37" class="java.beans.XMLDecoder"> 
+ <object class="java.util.ArrayList"> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	0	0	1	1	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>0</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>スポーツ	00:00以前である	17:00以降である	54 分以上である	録画	ニュース/報道	</string> 
+    </void> 
+    <void property="label"> 
+     <string>●スポーツ延長警告</string> 
+    </void> 
+    <void property="target"> 
+     <string>4	11	10	9	2	4	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>1	1	1	0	0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>0</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>延長時休止	総延長	延長戦	01:00以前である	17:00以降である	(延長|延伸|繰り下げ|生中継)	</string> 
+    </void> 
+    <void property="label"> 
+     <string>●延長</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>2	2	2	11	10	2	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ハイライト	スポーツ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○ハイライト</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	4	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>テレビ東京	ネオスポーツ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○ネオスポーツ</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>S☆1	ＴＢＳテレビ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○S☆1</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>Going!　Sports&amp;News	日本テレビ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○Going!　Sports&amp;News</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>INsideOUT	BSイレブン	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○INsideOUT</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ＷＯＷＯＷ	スポーツ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○ＷＯＷＯＷ</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	4	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>フジテレビ	すぽると	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○すぽると</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ＮＨＫ総合	大相撲	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○大相撲</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ちばテレビ	全国高校	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○全国高校</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="caseSensitive"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="infection"> 
+     <string>1</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>プロ野球　STRONG!ホークス野球中継2012	ＴＯＫＹＯ　ＭＸ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>○プロ野球　STRONG!ホークス野球中継2012</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	</string> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

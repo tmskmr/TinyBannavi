@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_45" class="java.beans.XMLDecoder"> 
+ <object class="java.util.ArrayList"> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳ日テレ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>GJ部</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>日本テレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>HUNTER×HUNTER</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>Wake　Up 　Girls!</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>Z/X　IGNITION</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>いなり、こんこん、恋いろは。</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>うーさーのその日暮らし　覚醒編</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>そにアニ -SUPER SONICO THE ANIMATION-</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>日本テレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>てさぐれ!部活もの　あんこーる</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳ日テレ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>とある飛空士への恋歌</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>となりの関くん</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>のうりん</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>日本テレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>はじめの一歩　Rising</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>80</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>アイカツ!</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳジャパン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>80</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>アイカツ!</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ウィザード・バリスターズ～弁魔士セシル</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ウィッチクラフトワークス</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>カードファイト!!ヴァンガード　リンクジョーカー編</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳジャパン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>カードファイト!!ヴァンガード　リンクジョーカー編</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ガールズ&amp;パンツァー</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳ-ＴＢＳ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>キルラキル</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＴＢＳテレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>キルラキル</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ゴールデンタイム</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>フジテレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>サムライフラメンコ&lt;ノイタミナ&gt;</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ストライク・ザ・ブラッド</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳフジ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>スペース☆ダンディ</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ディーふらぐ!</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>フジテレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>90</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>トリコ</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ニセコイ</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ノブナガン</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ノブナガ・ザ・フール</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ノラガミ</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>ハマトラ</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>バディ・コンプレックス</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>プピポー!</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>60</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>プリティーリズム・レインボーライブ</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>マイリトルポニー　～トモダチは魔法～</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>マケン姫っ!通</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>世界征服～謀略のズヴィズダー～</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>中二病でも恋がしたい!戀</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>咲-Saki-全国編</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>日本テレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>60</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>宇宙兄弟</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>テレビ東京</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>弱虫ペダル</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>最近、妹のようすがちょっとおかしいんだが。</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>未確認で進行形</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>東京レイヴンズ</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳ-ＴＢＳ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>桜Trick</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＴＢＳテレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>桜Trick</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＴＯＫＹＯ　ＭＸ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>機動戦士ガンダムSEED　DESTINY　HDリマスター</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>BSイレブン</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>生徒会役員共*</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>フジテレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>銀の匙　Silver　Spoon　&lt;ノイタミナ&gt;</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳ-ＴＢＳ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>鬼灯の冷徹</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＴＢＳテレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>鬼灯の冷徹</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＢＳ-ＴＢＳ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>魔法戦争</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＴＢＳテレビ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>魔法戦争</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.TraceKey"> 
+    <void property="center"> 
+     <string>ＮＨＫ Ｅテレ</string> 
+    </void> 
+    <void property="fazzyThreshold"> 
+     <int>35</int> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="title"> 
+     <string>黒魔女</string> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

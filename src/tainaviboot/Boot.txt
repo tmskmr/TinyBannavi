@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: tainaviboot.Boot
+Class-Path: bin;javamail/mail.jar;javamail/activation.jar;calendar/gdata-calendar-1.0.jar;calendar/gdata-client-1.0.jar;skin/*

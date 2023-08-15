@@ -1,0 +1,78 @@
+CD .\bin
+RMDIR /S /Q CVS
+RMDIR /S /Q META-INF
+RMDIR /S /Q niseRD
+RMDIR /S /Q testfield
+CD ..\
+
+CD .\env
+RMDIR /S /Q CVS
+DEL /Q ÉeÉXÉgçÌèú.cmd
+DEL /Q hogehoge.*
+CALL _initialize.cmd
+CD ..\
+
+CD .\calendar
+DEL /Q gdata-calendar-1.0.jar
+DEL /Q gdata-client-1.0.jar
+CD ..\
+
+CD .\javamail
+DEL /Q activation.jar
+DEL /Q mail.jar
+CD ..\
+
+CD .\icon
+RMDIR /S /Q CVS
+CD ..\
+
+CD .\skin
+DEL /Q *.jar
+CD ..\
+
+CD ".\TaiNavi for Mac.app"
+RMDIR /S /Q CVS
+CD .\Contents
+RMDIR /S /Q CVS
+CD .\MacOS
+RMDIR /S /Q CVS
+CD ..\Resources
+RMDIR /S /Q CVS
+CD ..\..\..\
+
+COPY /Y tinybannavi.sh "TaiNavi for Mac.app\Contents\MacOS\"
+
+rem MOVE .\bin\tainavi\PlugIn_RecGoogleCalendar.class .\calendar
+rem MOVE .\bin\tainavi\PlugIn_RecRD_MAIL*.class .\javamail
+rem MOVE .\bin\tainavi\PlugIn_RecRD_MAIL.class .\javamail
+rem MOVE .\bin\tainavi\PlugIn_RecRD_MAIL$1.class .\javamail
+rem MOVE .\bin\tainavi\PlugIn_RecRD_MAIL_Z9500.class .\javamail
+rem MOVE .\bin\tainavi\PlugIn_RecRD_MAIL_Z9500$1.class .\javamail
+rem MOVE .\bin\tainavi\PlugIn_RecRD_MAIL_Z1.class .\javamail
+DEL /Q .\bin\tainavi\PlugIn_CSPYahoo.class
+DEL /Q .\bin\tainavi\PlugIn_RecRD_S304K_AVC.class
+DEL /Q .\bin\tainavi\TVProgramOrder.class
+
+RMDIR /S /Q .settings
+RMDIR /S /Q CVS
+RMDIR /S /Q debug
+RMDIR /S /Q passed
+RMDIR /S /Q progcache
+RMDIR /S /Q skin
+RMDIR /S /Q src
+DEL /Q .classpath
+DEL /Q .project
+DEL /Q cmd.exe.lnk
+DEL /Q dump.txt
+DEL /Q log.txt
+DEL /Q log.txt.bak
+DEL /Q log_taiSync.txt
+DEL /Q log_taiSync.txt.bak
+DEL /Q hs_err_pid*.log
+DEL /Q snapshot*.*
+DEL /Q _lock_
+DEL /Q *.htm
+DEL /Q tainaviboot.jar
+DEL /Q TaiNavi.log
+
+DEL /Q çÌèú.cmd

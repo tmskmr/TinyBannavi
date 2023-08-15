@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_45" class="java.beans.XMLDecoder"> 
+ <object class="java.util.ArrayList"> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="caseSensitive"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>クローズアップ現代	ＮＨＫ総合	19:00以降である	21:00以前である	</string> 
+    </void> 
+    <void property="label"> 
+     <string>クローズアップ現代</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	10	11	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>NHKスペシャル	ＮＨＫ総合	</string> 
+    </void> 
+    <void property="label"> 
+     <string>NHKスペシャル</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	1	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>世界ふれあい街歩き	NHK BSプレミアム	セレクション	</string> 
+    </void> 
+    <void property="label"> 
+     <string>世界ふれあい街歩き</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	0	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>貧困拡大社会	</string> 
+    </void> 
+    <void property="label"> 
+     <string>貧困拡大社会</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>0	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	1	1	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>THE世界遺産	BS-TBS		</string> 
+    </void> 
+    <void property="label"> 
+     <string>THE世界遺産</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	7	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>テレビ東京	美の巨人たち	</string> 
+    </void> 
+    <void property="label"> 
+     <string>美の巨人たち</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ＢＳ朝日	BBC地球伝説	</string> 
+    </void> 
+    <void property="label"> 
+     <string>BBC地球伝説</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ＢＳフジ	ディスカバリ.*チャンネル	</string> 
+    </void> 
+    <void property="label"> 
+     <string>ディスカバリ-チャンネルセレクション</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>報道特集	ＴＢＳテレビ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>報道特集</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>日本テレビ	バンキシャ!	</string> 
+    </void> 
+    <void property="label"> 
+     <string>真相報道　バンキシャ!</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ワールドビジネスサテライト	ＢＳジャパン	</string> 
+    </void> 
+    <void property="label"> 
+     <string>ワールドビジネスサテライト</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>フジテレビ	明石家サンタ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>明石家サンタ</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>日本テレビ	笑ってはいけない	</string> 
+    </void> 
+    <void property="label"> 
+     <string>ダウンタウンのガキの使いやあらへんで!!</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	1	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="caseSensitive"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>映画	90 分以上である	</string> 
+    </void> 
+    <void property="label"> 
+     <string>映画</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="showInStandby"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void property="target"> 
+     <string>4	9	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>秋葉原	</string> 
+    </void> 
+    <void property="label"> 
+     <string>秋葉原</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★</string> 
+    </void> 
+    <void property="target"> 
+     <string>0	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>	アニメ/特撮	</string> 
+    </void> 
+    <void property="label"> 
+     <string>アニメ初回放送</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>8	4	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>アニメ/特撮		</string> 
+    </void> 
+    <void property="label"> 
+     <string>アニメ新番組</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>4	5	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>	アニメ/特撮	</string> 
+    </void> 
+    <void property="label"> 
+     <string>アニメ特番</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>12	4	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>アニメ/特撮		</string> 
+    </void> 
+    <void property="label"> 
+     <string>アニメ副音声</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>4	20	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>アニメ/特撮		</string> 
+    </void> 
+    <void property="label"> 
+     <string>アニメ視聴年齢制限</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="showInStandby"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void property="target"> 
+     <string>4	19	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>先行	アニメ/特撮	</string> 
+    </void> 
+    <void property="label"> 
+     <string>アニメ先行</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string></string> 
+    </void> 
+    <void property="target"> 
+     <string>0	4	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>映画	アニメ	</string> 
+    </void> 
+    <void property="label"> 
+     <string>アニメ映画</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>4	15	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>キッズステーション	映画	</string> 
+    </void> 
+    <void property="label"> 
+     <string>アニメ映画（キッズステーション）</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>3	4	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	1	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>東方	東方神起	</string> 
+    </void> 
+    <void property="label"> 
+     <string>東方</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>2	2	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>1</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>コミケ	コミックマーケット	</string> 
+    </void> 
+    <void property="label"> 
+     <string>コミケ</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>0	0	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	1	1	1	1	1	1	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ガンダム	AGE	Gセレクション	アニメの神様	ガンダムW	ガンダムZZ	板倉小隊	</string> 
+    </void> 
+    <void property="label"> 
+     <string>ガンダム</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>0	1	1	1	1	1	0	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>0</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	1	1	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ミルキィホームズ	ＴＯＫＹＯ　ＭＸ・２		</string> 
+    </void> 
+    <void property="label"> 
+     <string>ミルキィホームズ</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>1	3	7	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>1</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	0	0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>荒俣宏	日高義樹	雨宮慶太	有野晋哉	板尾創路	</string> 
+    </void> 
+    <void property="label"> 
+     <string>人名</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>0	0	0	0	0	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="condition"> 
+     <string>1</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	0	0	0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>下野紘	梶裕貴	後藤邑子	田村睦心	日笠陽子	井上麻里奈	</string> 
+    </void> 
+    <void property="label"> 
+     <string>声優</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>0	0	0	0	0	0	</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="tainavi.SearchKey"> 
+    <void property="caseSensitive"> 
+     <boolean>true</boolean> 
+    </void> 
+    <void property="condition"> 
+     <string>1</string> 
+    </void> 
+    <void property="contain"> 
+     <string>0	0	0	</string> 
+    </void> 
+    <void property="keyword"> 
+     <string>ガールズ&amp;パンツァー	ガルパン	大洗	</string> 
+    </void> 
+    <void property="label"> 
+     <string>ガールズ&amp;パンツァー</string> 
+    </void> 
+    <void property="okiniiri"> 
+     <string>★★★★★</string> 
+    </void> 
+    <void property="target"> 
+     <string>0	0	0	</string> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

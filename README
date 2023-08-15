@@ -1,0 +1,27 @@
+Eclipseでビルド・実行を行う場合は以下の設定を行ってください。
+
+■文字エンコーディング
+
+Project>Properties>Resource>Text file encoding :
+　UTF-8
+
+■ライブラリのパス
+
+Project>Java Build Path>Libraries :
+　activation.jar - TinyBannavi/javamail/
+　gdata-calendar-1.0.jar - TinyBannavi/calendar/
+　gdata-client-1.0.jar - TinyBannavi/calendar/
+　mail.jar - TinyBannavi/javamail/
+　TinyBannavi/skin (class folder)
+
+■mainメソッドを含むクラス
+
+Run>Run Configuration>Main>Main class :
+　tainavi.Viewer
+
+■JavaVMに対するオプション
+
+Run>Run Configuration>Arguments>VM arguments :
+　-Xrs -Xms64m -Xmx1024m -Dfile.encoding=UTF-8 -Duser.timezone=Asia/Tokyo
+
+以上
